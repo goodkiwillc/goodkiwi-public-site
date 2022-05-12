@@ -1,11 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "www.goodkiwi.llc",
+    "title": "Good Kiwi LLC",
     "description": "",
-    "home_page_url": "https://goodkiwi.llc",
-    "feed_url": "https://goodkiwi.llc/feed.json",
+    "home_page_url": "https://www.goodkiwi.llc",
+    "feed_url": "https://www.goodkiwi.llc/feed.json",
     "user_comment": "",
-    "icon": "https://goodkiwi.llc/media/website/Vector-logo-No-Background.svg",
+    "icon": "https://www.goodkiwi.llc/media/website/Vector-logo-No-Background.svg",
     "author": {
         "name": "Chris Goddard"
     },
